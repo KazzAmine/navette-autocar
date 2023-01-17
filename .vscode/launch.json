@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-NavetteApplication<navette>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.navette.navette.NavetteApplication",
+            "projectName": "navette",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
